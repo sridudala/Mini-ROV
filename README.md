@@ -13,7 +13,7 @@ model v0.1
     
 - AUTONOMOUS (incoming)
 
-  <h1 align="center">coming soon</h1>
+ 
 
 ### MECHANICAL PARTS:
 
