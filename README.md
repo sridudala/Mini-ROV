@@ -1,9 +1,6 @@
 
 # MINI ROV
 
-authors:
-Talisma Manuel<br>
-model v0.1
 
 <p align="center">
 <img src="https://github.com/sridudala/Mini-ROV/blob/main/Images/img1.jpg" title="3D rendered underwater drone" width="25%">
