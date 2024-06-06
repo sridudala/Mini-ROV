@@ -15,10 +15,7 @@
 ### MECHANICAL PARTS:
 
   
-    <p align="center">
-      <!--img src="./assets/drone_full_assemble.png"        /-->
-      <img src="https://github.com/sridudala/Mini-ROV/blob/main/Images/Img2.jpg" width="25%"/>
-    </p>
+   
     
     
     - [x]  water proof tupperware body
