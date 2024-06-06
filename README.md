@@ -14,7 +14,7 @@ model v0.1
 - FISH RECOGNITION
     
     <p align="center">
-    <img src="https://blog.roboflow.com/content/images/2021/09/130703648-8af62801-d66c-41f5-80ae-889301ae9b44-1.gif" width="25%"/>
+    <img src="https://blog.roboflow.com/content/images/2021/09/130703648-8af62801-d66c-41f5-80ae-889301ae9b44-1.gif" width="70%"/>
     </p>
     
 - AUTONOMOUS (incoming)
@@ -26,7 +26,7 @@ model v0.1
   - [x]  conception de la carcasse 
     <p align="center">
       <!--img src="./assets/drone_full_assemble.png"        /-->
-      <img src="https://github.com/sridudala/Mini-ROV/blob/main/Images/Img2.jpg" width="90%"/>
+      <img src="https://github.com/sridudala/Mini-ROV/blob/main/Images/Img2.jpg" width="25%"/>
     </p>
     
     - [x]  light system
