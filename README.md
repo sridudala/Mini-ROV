@@ -14,7 +14,7 @@
 
 ### MECHANICAL PARTS:
 
-  - [x]  conception de la carcasse 
+  
     <p align="center">
       <!--img src="./assets/drone_full_assemble.png"        /-->
       <img src="https://github.com/sridudala/Mini-ROV/blob/main/Images/Img2.jpg" width="25%"/>
@@ -27,7 +27,7 @@
 ### ELECTRONICS PARTS(hardware):
    - [x]  L293D Motor drivers
         - [x] esp32 camera
-        - [ ] HC05 bluetooth module
+        - [x] HC05 bluetooth module
         - [x]  dc motors
    - [x] Arduino UNO(not too expensive)
 
