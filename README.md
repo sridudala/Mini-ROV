@@ -20,28 +20,19 @@
       <img src="https://github.com/sridudala/Mini-ROV/blob/main/Images/Img2.jpg" width="25%"/>
     </p>
     
-    - [x]  light system
-    - [x]  camera tilting system
-    - [x]  water proof electronic pipe
+    
+    - [x]  water proof tupperware body
     
     
 ### ELECTRONICS PARTS(hardware):
-   - [x]  why pixhawk as hardware
-        - [x]  developer une solution du zero prendrait plus de temps et d’effort
-        - [x]  solution open source et open hardware
-   - [x] raspiberry pi(not too expensive)
+   - [x]  L293D Motor drivers
+        - [x] esp32 camera
+        - [ ] HC05 bluetooth module
+        - [x]  dc motors
+   - [x] Arduino UNO(not too expensive)
 
 ### SOFTWARE 
     
-   - [x]  environnent de développement (CI et CD → gitlab + docker + cmake + google-test + doxygen)
+   - [x]  Arduino IDE
 
-   - [x]  algorithme de reconnaissance real-time
-        - [x]  yolov5
    
-   - [ ]  tilting camera
-   - [ ]  self leveling 
-   - [ ]  depth hold
-   - [ ]  lights
-   - [ ]  inteligent battery life control
-   - [ ]  déplacement autonome du robot
-        - [ ]  ardusub 
