@@ -26,7 +26,7 @@ model v0.1
   - [x]  conception de la carcasse 
     <p align="center">
       <!--img src="./assets/drone_full_assemble.png"        /-->
-      <img src="./assets/D-OceanLab.png" width="90%"/>
+      <img src="https://github.com/sridudala/Mini-ROV/blob/main/Images/Img2.jpg" width="90%"/>
     </p>
     
     - [x]  light system
