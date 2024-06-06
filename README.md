@@ -10,12 +10,6 @@ model v0.1
 </p>
 
 ### FUNCTIONALITIES
-
-- FISH RECOGNITION
-    
-    <p align="center">
-    <img src="https://blog.roboflow.com/content/images/2021/09/130703648-8af62801-d66c-41f5-80ae-889301ae9b44-1.gif" width="70%"/>
-    </p>
     
 - AUTONOMOUS (incoming)
 
