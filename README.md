@@ -6,7 +6,7 @@ Talisma Manuel<br>
 model v0.1
 
 <p align="center">
-<img src="./Images/Img1.jpg](https://github.com/sridudala/Mini-ROV/blob/main/Images/img1.jpg" title="3D rendered underwater drone" width="100%">
+<img src="https://github.com/sridudala/Mini-ROV/blob/main/Images/img1.jpg" title="3D rendered underwater drone" width="100%">
 </p>
 
 ### FUNCTIONALITIES
